@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "id": "027d",
+      "name": "Blog 1",
+      "description": "This is blog 1"
+    },
+    {
+      "id": "5e14",
+      "name": "Blog 2",
+      "description": "This is blog 2"
+    },
+    {
+      "id": "b480",
+      "name": "Blog 3",
+      "description": "This is blog 3"
+    }
+  ]
+}
