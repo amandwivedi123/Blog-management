@@ -29,11 +29,11 @@ export default function Form() {
   }, []);
 
   const generateCustomId = () => {
-    return blogs.length > 0 ? Math.max(...blogs.map((blog) => blog.id)) + 1 : 1; // Generate a custom ID based on the highest existing ID
+    return blogs.length > 0 ? Math.max(...blogs.map((blog) => blog.id)) + 1 : 1;
   };
 
   const onSubmit = (data, event) => {
-    event.preventDefault(); // Prevent default form submission behavior
+    event.preventDefault();
     console.log("Form submitted data:", data);
     if (editIndex !== null) {
       // Edit existing blog
@@ -50,6 +50,7 @@ export default function Form() {
     } else {
       // Add new blog
       const newBlog = { ...data, id: generateCustomId() };
+      console.log(newBlog);
       axios
         .post("http://localhost:3001/blogs", data)
         .then((response) => {
@@ -72,6 +73,7 @@ export default function Form() {
   };
 
   const handleDelete = (index) => {
+    console.log(index);
     const blogToDelete = blogs[index];
     console.log("Deleting blog:", blogToDelete);
     axios
