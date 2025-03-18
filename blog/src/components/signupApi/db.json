@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "f64d",
+      "name": "Akhilesh dwivedi",
+      "email": "dwivediakhilesh@gmail.com",
+      "password": "$2b$10$WQ558h3uu1qdX37soS6YpO1hcTZNo4ce8aAqxC33vWyREGb5veyD.",
+      "checkbox": true
+    },
+    {
+      "id": "38ee",
+      "name": "Shikha Pandey",
+      "email": "sp3d123@gmail.com",
+      "password": "1234567",
+      "checkbox": true
+    },
+    {
+      "id": "cbdb",
+      "name": "aman dwivedi",
+      "email": "dwivediaman084@gmail.com",
+      "password": "$2b$10$wmcnGI9HLbdBfnqPA/33Cuq/HMzoC9FmtBI7Wgouzk0Xw3Z9Seh9a",
+      "checkbox": true
+    },
+    {
+      "id": "96f8",
+      "name": "Miral Sojitra",
+      "email": "mirals12@gmail.com",
+      "password": "$2b$10$JEzJOyJz9hHkyn8.m3deXuEOSyYXmCCi57HlNWQJrQQtgNGm1ev3e",
+      "checkbox": true
+    },
+    {
+      "id": "f391",
+      "name": "Aanshi",
+      "email": "aanshi123@gmail.com",
+      "password": "$2b$10$BYz/umaQtJiurKKjF2SLs.LOOVG/xA64FW194W41QvBGjYdVEcxrC",
+      "checkbox": true
+    },
+    {
+      "id": "89c9",
+      "name": "Aesha",
+      "email": "Aesha123@gmail.com",
+      "password": "$2b$10$cx4X6IjkaxvWvnistypbPOyPitqMPftRwXJFomjJ.Mz8QRwTMe5B.",
+      "checkbox": true
+    },
+    {
+      "id": "c4b9",
+      "name": "AshishD",
+      "email": "ashishd321@mail.com",
+      "password": "qwerty",
+      "checkbox": true
+    }
+  ]
+}
