@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "name": "Grow in intimacy with God",
+      "description": "Any time we spend more time with someone, our relationship becomes more intimate. We get to know someone better, and we get a sense of what they want from us and for us without them having to explicitly say what that is. The more we grow in the ",
+      "image": "https://newbreak.church/nitropack_static/HGpYAcRHhxqRxOGuCOYzvLFhPQWoSGrx/assets/images/optimized/rev-8b469d9/newbreak.church/wp-content/uploads/2023/02/3kv48ns4wuu-1536x1024.jpg"
+    },
+    {
+      "id": "3",
+      "name": "“God, Just Tell Me What to Do Next!”",
+      "description": "In the midst of giving his disciples some final words of encouragement before the events of the cross, Jesus spent some time talking about the coming of the Holy Spirit (see John chapters 14 through 16). The Holy Spirit does many things in us, but one of those is that he guides us. Said another way: He gives us direction to stay on course; to remind us where true north is.",
+      "image": "https://newbreak.church/nitropack_static/HGpYAcRHhxqRxOGuCOYzvLFhPQWoSGrx/assets/images/optimized/rev-8b469d9/newbreak.church/wp-content/uploads/2023/12/paykyb-8er8-1024x684.jpg"
+    },
+    {
+      "id": "4",
+      "name": "New Beginnings In An Ongoing Story",
+      "description": "The author of Acts is none other than Luke, the loyal companion of Paul and the author of the third Gospel account. Acts tells the stories of how the church started, and there are plenty of new events and activities that take place. New individuals like the Apostle Paul come on the scene, new cities like Philippi and Ephesus become homes for new churches and new leaders rise up to spread the news about God.",
+      "image": "https://newbreak.church/wp-content/uploads/2020/01/dwheufds6kq-1024x683.jpg"
+    },
+    {
+      "id": "5",
+      "name": "What Makes the Difference in How We Process the Past?",
+      "description": "It’s truly amazing how much power the past can have in influencing our present lives. The past can be full of lessons learned, or hindrances that hold us back, even today! In last week’s message, we saw how Judas’ final choices led to a great deal of pain that the disciples had to process so that they could progress forward. ",
+      "image": "https://newbreak.church/wp-content/uploads/2020/01/wozsluo_vak-1024x683.jpg"
+    },
+    {
+      "id": "6",
+      "name": "How Do I Overcome Recurring Negative Thoughts?",
+      "description": "Have you ever considered comparing our thought life to living on a busy street? Our minds are like a busy street, a place where thoughts of all kinds (negative and positive; false and true) drive by. We cannot stop the flow of traffic, but we can choose which thoughts are allowed to park in our driveway.",
+      "image": "https://newbreak.church/wp-content/uploads/2020/04/wkfq5bcsk3u-600x400.jpg"
+    }
+  ]
+}
